@@ -85,7 +85,7 @@ bool verificare_expresie(char *expr, vector<muchie> *aut, char *q, char *fi, cha
             return 1;
 
     }
-    cout<<"Ajunge aici\n";
+    
     return ok;
 }
 
