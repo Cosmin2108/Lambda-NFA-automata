@@ -4,7 +4,7 @@
 #include<string.h>
 using namespace std;
 ifstream f("Date.txt");
-///#define lambda '~'
+///#define lambda '&'
 void citire_stari(int &n,int &n2, char &q0, char *q[], char *fi[])
 {
     f>>n;
